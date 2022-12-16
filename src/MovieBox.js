@@ -1,4 +1,4 @@
-import { Modal,show,Button} from 'react-bootstrap';
+import { Modal,Button} from 'react-bootstrap';
 import React, {useState} from 'react';
 const API_IMG="https://image.tmdb.org/t/p/w500/";
 
